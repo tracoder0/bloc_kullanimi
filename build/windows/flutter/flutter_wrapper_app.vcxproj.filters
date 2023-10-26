@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Programlama\Dersler\Mobil\flutterbootcamp\bloc_pattern_kullanimi\windows\flutter\ephemeral\cpp_client_wrapper\core_implementations.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programlama\Dersler\Mobil\flutterbootcamp\bloc_pattern_kullanimi\windows\flutter\ephemeral\cpp_client_wrapper\standard_codec.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programlama\Dersler\Mobil\flutterbootcamp\bloc_pattern_kullanimi\windows\flutter\ephemeral\cpp_client_wrapper\flutter_engine.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Programlama\Dersler\Mobil\flutterbootcamp\bloc_pattern_kullanimi\windows\flutter\ephemeral\cpp_client_wrapper\flutter_view_controller.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Programlama\Dersler\Mobil\flutterbootcamp\bloc_pattern_kullanimi\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{2C6C18E1-C345-3FE1-A6E2-100DBE661E6F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{EC0F9F2F-BE90-3B69-94A3-DA2E31FF829E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

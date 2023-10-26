@@ -1,0 +1,10 @@
+D:/Programlama/Dersler/Mobil/flutterbootcamp/bloc_pattern_kullanimi/build/windows/CMakeFiles/INSTALL.dir
+D:/Programlama/Dersler/Mobil/flutterbootcamp/bloc_pattern_kullanimi/build/windows/CMakeFiles/ALL_BUILD.dir
+D:/Programlama/Dersler/Mobil/flutterbootcamp/bloc_pattern_kullanimi/build/windows/CMakeFiles/ZERO_CHECK.dir
+D:/Programlama/Dersler/Mobil/flutterbootcamp/bloc_pattern_kullanimi/build/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+D:/Programlama/Dersler/Mobil/flutterbootcamp/bloc_pattern_kullanimi/build/windows/flutter/CMakeFiles/flutter_wrapper_app.dir
+D:/Programlama/Dersler/Mobil/flutterbootcamp/bloc_pattern_kullanimi/build/windows/flutter/CMakeFiles/flutter_assemble.dir
+D:/Programlama/Dersler/Mobil/flutterbootcamp/bloc_pattern_kullanimi/build/windows/flutter/CMakeFiles/INSTALL.dir
+D:/Programlama/Dersler/Mobil/flutterbootcamp/bloc_pattern_kullanimi/build/windows/runner/CMakeFiles/bloc_pattern_kullanimi.dir
+D:/Programlama/Dersler/Mobil/flutterbootcamp/bloc_pattern_kullanimi/build/windows/runner/CMakeFiles/INSTALL.dir
+D:/Programlama/Dersler/Mobil/flutterbootcamp/bloc_pattern_kullanimi/build/windows/runner/CMakeFiles/ALL_BUILD.dir
